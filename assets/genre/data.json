@@ -1,1 +1,97 @@
-[]
+[
+    {
+                    "id": 1,
+                    "text":"Action",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/action.jpg",
+                    "colorBar":"rgba(244, 67, 54, 0.99)",
+                    "backgroundColor":"rgba(244, 67, 54, 0.45)"
+                }, 
+                {
+                    "id": 2,
+                    "text":"Adventure",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/adventure.jpg",
+                    "colorBar":"rgba(63, 81, 181, 0.99)",
+                    "backgroundColor":"rgba(63, 81, 181, 0.45)"
+
+                }, 
+                {
+                    "id": 3,
+                    "text":"Animation",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/animation.jpg",
+                    "colorBar":"rgba(76, 175, 80, 0.99)",
+                    "backgroundColor":"rgba(76, 175, 80, 0.45)"
+
+                }, 
+                {
+                    "id": 4,
+                    "text":"Romance",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/romance.jpg",
+                    "colorBar":"rgba(233, 30, 99, 0.99)",
+                    "backgroundColor":"rgba(233, 30, 99, 0.45)"
+
+                }, 
+                {
+                    "id": 5,
+                    "text":"Fantasy",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/fantasy.jpg",
+                    "colorBar":"rgba(103, 58, 183, 0.99)",
+                    "backgroundColor":"rgba(103, 58, 183, 0.45)"
+
+                }, 
+                {
+                    "id": 6,
+                    "text":"Comedy",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/comedy.jpg",
+                    "colorBar":"rgba(33, 150, 243, 0.99)",
+                    "backgroundColor":"rgba(33, 150, 243, 0.45)"
+
+                }, 
+                {
+                    "id": 7,
+                    "text":"Sci-fi",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/sci-fi.jpg",
+                    "colorBar":"rgba(255, 87, 34, 0.99)",
+                    "backgroundColor":"rgba(255, 87, 34, 0.45)"
+
+                }, 
+                {
+                    "id": 8,
+                    "text":"Horror",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/horror.jpg",
+                    "colorBar":"rgba(0, 150, 136, 0.99)",
+                    "backgroundColor":"rgba(0, 150, 136, 0.45)"
+
+                },
+                {
+                    "id": 9,
+                    "text":"Drama",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/drama.png",
+                    "colorBar":"rgba(156, 39, 176, 0.99)",
+                    "backgroundColor":"rgba(156, 39, 176, 0.45)"
+
+                },
+                {
+                    "id": 10,
+                    "text":"Thriller",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/thriller.jpg",
+                    "colorBar":"rgba(121, 85, 72, 0.99)",
+                    "backgroundColor":"rgba(121, 85, 72, 0.45)"
+
+                },
+                {
+                    "id": 11,
+                    "text":"Biography",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/biography.jpg",
+                    "colorBar":"rgba(96, 125, 139, 0.99)",
+                    "backgroundColor":"rgba(96, 125, 139, 0.45)"
+
+                },
+                {
+                    "id": 12,
+                    "text":"Crime",
+                    "image":"https://sahimar90.github.io/filmfull/assets/genre/crime.jpg",
+                    "colorBar":"rgba(130, 119, 23, 0.99)",
+                    "backgroundColor":"rgba(130, 119, 23, 0.45)"
+
+                }
+]
