@@ -1,1 +1,74 @@
-[]
+[
+    {
+                    "id": 1,
+                    "text":"USA",
+                    "image":"https://sahimar90.github.io/filmfull/assets/country/usa.jpg",
+                    "colorBar":"rgba(244, 67, 54, 0.99)",
+                    "backgroundColor":"rgba(244, 67, 54, 0.45)"
+                }, 
+                {
+                    "id": 12,
+                    "text":"UK",
+                    "image":"https://sahimar90.github.io/filmfull/assets/country/inggris.png",
+                    "colorBar":"rgba(63, 81, 181, 0.99)",
+                    "backgroundColor":"rgba(130, 119, 23, 0.45)"
+
+                },
+                {
+                    "id": 2,
+                    "text":"Korea",
+                    "image":"https://sahimar90.github.io/filmfull/assets/country/korea.jpg",
+                    "colorBar":"rgba(76, 175, 80, 0.99)",
+                    "backgroundColor":"rgba(63, 81, 181, 0.45)"
+
+                }, 
+                {
+                    "id": 3,
+                    "text":"China",
+                    "image":"https://sahimar90.github.io/filmfull/assets/country/china.png",
+                    "colorBar":"rgba(233, 30, 99, 0.99)",
+                    "backgroundColor":"rgba(76, 175, 80, 0.45)"
+
+                }, 
+                {
+                    "id": 4,
+                    "text":"India",
+                    "image":"https://sahimar90.github.io/filmfull/assets/country/india.jpg",
+                    "colorBar":"rgba(103, 58, 183, 0.99)",
+                    "backgroundColor":"rgba(233, 30, 99, 0.45)"
+
+                }, 
+                
+                {
+                    "id": 8,
+                    "text":"Japan",
+                    "image":"https://sahimar90.github.io/filmfull/assets/country/japan.jpg",
+                    "colorBar":"rgba(156, 39, 176, 0.99)",
+                    "backgroundColor":"rgba(0, 150, 136, 0.45)"
+
+                },
+                {
+                    "id": 9,
+                    "text":"Thailand",
+                    "image":"https://sahimar90.github.io/filmfull/assets/country/thailand.jpg",
+                    "colorBar":"rgba(121, 85, 72, 0.99)",
+                    "backgroundColor":"rgba(156, 39, 176, 0.45)"
+
+                },
+                {
+                    "id": 10,
+                    "text":"Taiwan",
+                    "image":"https://sahimar90.github.io/filmfull/assets/country/taiwan.jpg",
+                    "colorBar":"rgba(96, 125, 139, 0.99)",
+                    "backgroundColor":"rgba(121, 85, 72, 0.45)"
+
+                },
+                {
+                    "id": 11,
+                    "text":"Hongkong",
+                    "image":"https://sahimar90.github.io/filmfull/assets/country/hongkong.jpg",
+                    "colorBar":"rgba(130, 119, 23, 0.99)",
+                    "backgroundColor":"rgba(96, 125, 139, 0.45)"
+
+                }
+]
