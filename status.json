@@ -7,7 +7,7 @@
 		"from":"[{\"file\":\"",
 		"to":"\""
 	},
-	"down":0,
+	"down":1,
 	"film_parse":{
 		"a":{
 			"from":"document.getElementById(result_360).innerHTML=<ahref=\"",
